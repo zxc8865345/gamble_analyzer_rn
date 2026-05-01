@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "百家樂分析平台",
+    "slug": "gamble-analyzer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f0f1e"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gambleanalyzer.app"
+    },
+    "android": {
+      "package": "com.gambleanalyzer.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0f0f1e",
+        "foregroundImage": "./assets/adaptive-icon.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
